@@ -8,8 +8,8 @@ def BuptLogin():
   import hashlib
 
   ###your username and password###
-  username = '2012212033'
-  pwd = '010099'  
+  username = '【】'
+  pwd = '【】'  
   ###your username and password###
 
   urlstr = "http://10.3.8.150/cgi-bin/do_login"
